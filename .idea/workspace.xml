@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b936a382-90d6-4b0e-853a-4a59cd0f1a58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estruturas-condicionais/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estruturas-condicionais/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estruturas-condicionais/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estruturas-condicionais/exercise5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fernandes-Yuri"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fernandes-Yuri/Aula-Python.git",
+    "accountId": "649197cd-a201-495b-9dc9-b99a08ace20d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -37,13 +54,18 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Exercícios.executor": "Run",
+    "Python.exercise1.executor": "Run",
+    "Python.exercise2.executor": "Run",
+    "Python.exercise3.executor": "Run",
+    "Python.exercise4.executor": "Run",
+    "Python.exercise5.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Aula-Python"
+    "last_opened_file_path": "D:/Aula-Python"
   }
 }]]></component>
   <component name="SharedIndexes">
